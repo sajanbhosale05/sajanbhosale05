@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   height="500px"
   src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"
 />
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=2E22F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sajan+Bhosale;A+passionate+Full+stack+developer+from+India;Nice+to+Meet+You..!!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=2E22F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sajan+Bhosale;A+passionate+Full+stack+developer;Nice+to+Meet+You..!!" alt="Typing SVG" /></a></h1>
 
 <span>
   <img

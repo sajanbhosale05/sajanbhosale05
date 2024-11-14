@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img
   width="100%"
   height="500px"
-  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"
+  src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/12140908/cloud-computing.gif"
 />
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=2E22F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sajan+Bhosale;A+passionate+Full+stack+developer;Nice+to+Meet+You..!!" alt="Typing SVG" /></a></h1>
 
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 </p>
 <span>
   <ul>
-    <li>🌱 I’m currently learning MERN, Java</li>
-    <li>💬 Ask me about Django</li>
+    <li>🌱 I’m currently learning AWS, Cloud Computing</li>
+    <li>💬 Ask me about AWS</li>
     <br />
     <li>📫 How to reach me <a href="bhosalesajan05@gmail.com">bhosalesajan05@gmail.com</a></li>
   </ul>
